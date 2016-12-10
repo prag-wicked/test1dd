@@ -1,5 +1,6 @@
 ﻿namespace Inventory
 {
+    // This is for deveopt branch
     public struct InventoryItem
     {
         public Color Color { get; private set; }
