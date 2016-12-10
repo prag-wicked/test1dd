@@ -1,5 +1,6 @@
 ﻿namespace Inventory
 {
+    // This is for feature2 branch
     // This is for feature branch
     // This is for deveopt branch
     public struct InventoryItem
