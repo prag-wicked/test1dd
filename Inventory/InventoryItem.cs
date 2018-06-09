@@ -8,6 +8,8 @@
         public Color Color { get; private set; }
         public string Description { get; private set; }
 
+
+
         public InventoryItem(Color color, string description)
         {
             Color = color;
